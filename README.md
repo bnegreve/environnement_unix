@@ -7,18 +7,17 @@ Sur cette page, vous trouverez quelques pistes pour installer un envrionnement U
 Depuis Windows
 ==============
 
-Sans machine virtuelle
----
-
-Vous pouvez installer un environnement Unix, sans utiliser de machine virutelle. Vous n'êtes pas complétement immergés dans un environement Unix, mais d'après mes étudiants, ça fonctionne bien pour la pratique des commandes shell. Voici [la doc](https://docs.microsoft.com/fr-fr/windows/wsl/about) et [un tutoriel](https://www.youtube.com/watch?v=Cvrqmq9A3tA) qui décrit toute l'installation étape par étape.
-
 Avec une machine virtuelle
 ---
 
-Si votre ordinateur est un PC sous Windows, vous pouvez installer une machine virtuelle comme Virtual Box et d'y installer le système Ubuntu. Une machine virtuelle est un programme qui s'exécute comme les autres, mais qui est capable de simuler un ordinateur (une machine) virtuel(le). Vous pouvez ainsi installer n'importe quel système d'exploitation sur la machine virtuelle, sans toucher au système de base de la machine réelle, et donc sans risquer de tout casser. 
+Si votre ordinateur est un PC sous Windows, vous pouvez installer une machine virtuelle comme Virtual Box et y installer le système Ubuntu. Une machine virtuelle est un programme qui s'exécute comme les autres, mais qui est capable de simuler un ordinateur (une machine) virtuel(le). Vous pouvez ainsi installer n'importe quel système d'exploitation dans la machine virtuelle, sans modifier toucher au système de base de la machine physique, et donc, sans risquer de tout casser. 
 
 Vous pouvez trouver de nombreux tutoriels pour installer une machine virtuelle avec Ubuntu sur internet, par exemple, celui ci me semble pas mal: [https://www.papergeek.fr/comment-installer-une-machine-virtuelle-linux-dans-windows-10-81428"](https://www.papergeek.fr/comment-installer-une-machine-virtuelle-linux-dans-windows-10-81428)
 
+Sans machine virtuelle
+---
+
+Vous pouvez également installer un environnement Unix sans utiliser de machine virutelle, c'est probablement la solution la plus simple. Vous n'êtes pas complétement immergés dans un environement Unix, mais d'après mes étudiants, ça fonctionne bien pour la pratique des commandes shell. Voici [la doc](https://docs.microsoft.com/fr-fr/windows/wsl/about) et [un tutoriel](https://www.youtube.com/watch?v=Cvrqmq9A3tA) qui décrit toute l'installation étape par étape.
 
 Depuis OSX
 ==========
