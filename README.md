@@ -1,8 +1,8 @@
 # Environnement Unix
 
-Pour travailler sur le cours UNIX, vous aurez besoin d'un environnement UNIX utilisable. Ce que j'appelle un environnement UNIX c'est un terminal avec un shell qui s'exécute (e.g. `bash`), les utilitaires par defaut (`ls, grep, sed` etc.), les pages `man` correctement installées, un compilateur C (comme `gcc`), et un editeur de texte comme `emacs`, `vim` ou eventuellement `nano`.
+Pour travailler sur le cours UNIX, vous aurez besoin d'un environnement UNIX utilisable. Ce que j'appelle un environnement UNIX c'est un terminal avec un shell qui s'exécute (e.g. `bash`), les utilitaires par defaut (`ls, grep, sed` etc.), les pages `man` correctement installées, un compilateur C (comme `gcc`), et un éditeur de texte comme `emacs`, `vim` ou eventuellement `nano`.
 
-Sur cette page, vous trouverez quelques pistes pour installer un envrionement UNIX depuis Windows et OSX. Attention: je ne suis pas un utilisateur expert, ni de Windows, ni de OSX donc il est possible que ces informations soient érronées ou insuffisantes. En cas de difficultés, je vous conseille avant tout de discuter avec vos camarades qui utilisent le même système que vous. Si vous avez des commentaires utiles à ajouter à cette page, n'hésitez pas à m'envoyer un mail.
+Sur cette page, vous trouverez quelques pistes pour installer un envrionnement UNIX depuis Windows et OSX. Attention: je ne suis pas un utilisateur expert, ni de Windows, ni de OSX donc il est possible que ces informations soient érronées ou insuffisantes. En cas de difficultés, je vous conseille avant tout de discuter avec vos camarades qui utilisent le même système que vous. Si vous avez des commentaires utiles à ajouter à cette page, n'hésitez pas à m'envoyer un mail (voir à la fin de ce documents).
 
 Depuis Windows
 ==============
@@ -10,7 +10,7 @@ Depuis Windows
 Sans machine virtuelle
 ---
 
-Vous pouvez aussi installer un environnement Unix, sans utiliser de machine virutelle. Vous n'êtes pas complétement immergés dans un environement Unix, mais d'après mes étudiants, ça fonctionne bien pour la pratique des commandes shell. Voici [la doc](https://docs.microsoft.com/fr-fr/windows/wsl/about) et [un tutoriel](https://www.youtube.com/watch?v=Cvrqmq9A3tA) qui décrit toute l'installation étape par étape.
+Vous pouvez installer un environnement Unix, sans utiliser de machine virutelle. Vous n'êtes pas complétement immergés dans un environement Unix, mais d'après mes étudiants, ça fonctionne bien pour la pratique des commandes shell. Voici [la doc](https://docs.microsoft.com/fr-fr/windows/wsl/about) et [un tutoriel](https://www.youtube.com/watch?v=Cvrqmq9A3tA) qui décrit toute l'installation étape par étape.
 
 Avec une machine virtuelle
 ---
