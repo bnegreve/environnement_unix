@@ -17,7 +17,22 @@ Vous pouvez trouver de nombreux tutoriels pour installer une machine virtuelle a
 Sans machine virtuelle
 ---
 
-Vous pouvez également installer un environnement Unix sans utiliser de machine virutelle, c'est probablement la solution la plus simple. Vous n'êtes pas complétement immergés dans un environement Unix, mais d'après mes étudiants, ça fonctionne bien pour la pratique des commandes shell. Voici [la doc](https://docs.microsoft.com/fr-fr/windows/wsl/about) et [un tutoriel](https://www.youtube.com/watch?v=Cvrqmq9A3tA) qui décrit toute l'installation étape par étape.
+Vous pouvez également installer un environnement Unix sans utiliser de machine virutelle, c'est probablement la solution la plus simple. Vous n'êtes pas complétement immergés dans un environement Unix, mais cela vous permet tout de même de pratiquer l'utilisation des commandes shell. 
+
+Il y a au moins deux manières de faire ça:
+
+### Cygwin 
+
+Crée par la communauté des utilisateurs de Unix pour le système Windows. 
+
+https://www.cygwin.com/
+
+### Le sous système windows pour Linux
+
+Crée par Microsoft. 
+
+Voici [la doc](https://docs.microsoft.com/fr-fr/windows/wsl/about) et [un tutoriel](https://www.youtube.com/watch?v=Cvrqmq9A3tA) qui décrit toute l'installation étape par étape.
+
 
 Depuis OSX
 ==========
