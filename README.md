@@ -47,6 +47,6 @@ Si vous êtes motivé(e), vous pouvez également installer Ubuntu, directement s
 Mettre à jour ce document
 =========================
 
-Si vous trouvez des erreurs, si vous voulez proposer des précisions ou de nouvelles manières d'installer un environnement Unix, n'hésitez pas à m'envoyer vos suggestions sur mon adresse mail (prenom.nom @ dauphine.psl.eu)
+Si vous trouvez des erreurs, si vous voulez proposer des précisions ou de nouvelles manières d'installer un environnement Unix, n'hésitez pas à m'envoyer vos suggestions sur mon adresse mail (prenom.nom @ dauphine.psl.eu), ou mieux des *pull requests*.
 
 Benjamin Negrevergne
