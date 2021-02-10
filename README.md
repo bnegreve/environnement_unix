@@ -58,6 +58,13 @@ Installer Linux/Ubuntu sur votre machine en Dual Boot
 
 Si vous êtes motivé(e), vous pouvez également installer Ubuntu, directement sur votre machine en plus de votre système de base (on parle de *dual boot*), mais attention, une mauvaise installation pour vous empêcher de démarrer sur l'un ou l'autre système. Voici le tutoriel officiel pour installer Ubuntu : <https://ubuntu.com/tutorials/tutorial-install-ubuntu-desktop>.
 
+Linux LIVE-USB
+======
+
+Idée : Linux est installé sur une clef USB bootable. 
+
+Voir ce [lien](https://doc.ubuntu-fr.org/live_usb) 
+
 Mettre à jour ce document
 =========================
 
