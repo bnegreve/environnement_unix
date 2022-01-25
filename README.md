@@ -10,7 +10,8 @@ Depuis Windows
 Avec une machine virtuelle
 ---
 
-Si votre ordinateur est un PC sous Windows, vous pouvez installer une machine virtuelle comme Virtual Box et y installer le système Ubuntu. Une machine virtuelle est un programme qui s'exécute comme les autres, mais qui est capable de simuler un ordinateur (une machine) virtuel(le). Vous pouvez ainsi installer n'importe quel système d'exploitation dans la machine virtuelle, sans modifier toucher au système de base de la machine physique, et donc, sans risquer de tout casser. 
+Une machine virtuelle est un programme capable de simuler le fonctionnement d'un ordinateur (machine) virtuel(le).
+Si votre ordinateur est un PC sous Windows, vous pouvez installer une machine virtuelle comme Virtual Box et y installer le système Ubuntu.  Vous pouvez ainsi installer n'importe quel système d'exploitation dans la machine virtuelle, sans modifier toucher au système de base de la machine physique, et donc, sans risquer de tout casser. 
 
 Vous pouvez trouver de nombreux tutoriels pour installer une machine virtuelle avec Ubuntu sur internet, par exemple, celui ci me semble pas mal: [https://www.papergeek.fr/comment-installer-une-machine-virtuelle-linux-dans-windows-10-81428"](https://www.papergeek.fr/comment-installer-une-machine-virtuelle-linux-dans-windows-10-81428)
 
